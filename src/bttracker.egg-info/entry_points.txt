@@ -1,0 +1,3 @@
+[console_scripts]
+bttracker = bttracker.main:main
+
